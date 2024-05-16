@@ -8,7 +8,7 @@ Mʏ Nᴀᴍᴇ Is {bot}.
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-👨‍💻 Dᴇᴠᴇʟᴏᴩᴇʀ:<a herf=https://t.me/MeAwara>𓆩Ꭺᴡᴀʀᴀ𓆪ꪾ</a>
+👨‍💻 Dᴇᴠᴇʟᴏᴩᴇʀ:<a herf=https://t.me/movess_hub>『𝗛𝗘𝗠𝗨』</a>
 🌐 Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 📂 Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ☄️ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
