@@ -15,9 +15,9 @@ Mʏ Nᴀᴍᴇ Is {bot}.
 ⚡️ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/MeAwara>𓆩Ꭺᴡᴀʀᴀ𓆪ꪾ</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/Diftann>『𝗛𝗘𝗠𝗨』</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/MeAwara>𓆩Ꭺᴡᴀʀᴀ𓆪ꪾ</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/Diftann>『𝗛𝗘𝗠𝗨』</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -28,7 +28,7 @@ Mʏ Nᴀᴍᴇ Is {bot}.
 ➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
 
 <b>⪼ EG:</b>
-</code>/batch https://t.me/Movies4USupport https://t.me/Movies4UBackupChannel/10</code>"""
+</code>/batch https://t.me/movess_hub https://t.me/moves_hub_request</code>"""
   
     FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
     
