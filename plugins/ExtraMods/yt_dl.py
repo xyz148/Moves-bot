@@ -28,7 +28,7 @@ async def song(client, message):
         thumb_name = f'thumb{title}.jpg'
         thumb = requests.get(thumbnail, allow_redirects=True)
         open(thumb_name, 'wb').write(thumb.content)
-        performer = f"[Mᴋɴ Bᴏᴛᴢ™]" 
+        performer = f"『𝗛𝗘𝗠𝗨』" 
         duration = results[0]["duration"]
         url_suffix = results[0]["url_suffix"]
         views = results[0]["views"]
@@ -36,7 +36,7 @@ async def song(client, message):
         print(str(e))
         return await m.edit("**𝙵𝙾𝚄𝙽𝙳 𝙽𝙾𝚃𝙷𝙸𝙽𝙶 𝙿𝙻𝙴𝙰𝚂𝙴 𝙲𝙾𝚁𝚁𝙴𝙲𝚃 𝚃𝙷𝙴 𝚂𝙿𝙴𝙻𝙻𝙸𝙽𝙶 𝙾𝚁 𝙲𝙷𝙴𝙲𝙺 𝚃𝙷𝙴 𝙻𝙸𝙽𝙺**")
                 
-    await m.edit("**dσwnlσαdíng чσur ѕσng...!**")
+    await m.edit("**𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗜𝗡𝗚 𝗬𝗢𝗨𝗥 𝗦𝗢𝗡𝗚\n\n𝗕𝗢𝗧 𝗠𝗔𝗗𝗘 𝗕𝗬➤『𝗛𝗘𝗠𝗨』...!**")
     try:
         with YoutubeDL(ydl_opts) as ydl:
             info_dict = ydl.extract_info(link, download=False)
@@ -115,7 +115,7 @@ async def vsong(client, message: Message):
         return await pablo.edit_text(f"**𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝙵𝚊𝚒𝚕𝚎𝚍 𝙿𝚕𝚎𝚊𝚜𝚎 𝚃𝚛𝚢 𝙰𝚐𝚊𝚒𝚗..♥️** \n**Error :** `{str(e)}`")       
     
     file_stark = f"{ytdl_data['id']}.mp4"
-    capy = f"""**𝚃𝙸𝚃𝙻𝙴 :** [{thum}]({mo})\n**𝚁𝙴𝚀𝚄𝙴𝚂𝚃𝙴𝙳 𝙱𝚈 :** {message.from_user.mention}"""
+    capy = f"""**𝗧𝗜𝗧𝗧𝗟𝗘 :** [{thum}]({mo})\n**𝚁𝙴𝚀𝚄𝙴𝚂𝚃𝙴𝙳 𝙱𝚈 :** {message.from_user.mention}"""
 
     await client.send_video(
         message.chat.id,
